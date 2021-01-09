@@ -1,0 +1,4 @@
+  Source.cpp
+c:\users\кирилл\desktop\прога 2 сем\лаба 1(односвязный список)\лаба 2\source.cpp(61): warning C4244: return: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\кирилл\desktop\прога 2 сем\лаба 1(односвязный список)\лаба 2\source.cpp(268): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+  лаба 2.vcxproj -> C:\Users\Кирилл\Desktop\прога 2 сем\лаба 1(односвязный список)\Debug\лаба 2.exe
